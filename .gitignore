@@ -1,0 +1,6 @@
+.bundle/
+project/target
+target
+pkg
+lib/birdmonger.jar
+
